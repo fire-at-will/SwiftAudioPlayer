@@ -25,6 +25,5 @@ let package = Package(
             name: "SwiftAudioPlayer",
             path: "Source"
         )
-    ],
-    swiftLanguageVersions: [.v5]
+    ]
 )
